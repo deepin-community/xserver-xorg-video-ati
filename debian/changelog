@@ -1,3 +1,11 @@
+xserver-xorg-video-ati (1:19.1.0.1-3deepin) unstable; urgency=medium
+
+  * for debian 19.1.0-3.
+  * fix-rotation.diff: Fix crash on rotation. (Closes: #1009325)
+    (LP: #1970473)
+
+ -- LiChengGang <lichenggang@uniontech.com>  Tue, 28 Feb 2023 09:51:16 +0800
+
 xserver-xorg-video-ati (1:19.1.0.1-deepin) stable; urgency=medium
 
   * ['Rebuild  against by  current gcc 11.2']
