@@ -1,9 +1,3 @@
-xserver-xorg-video-ati (1:19.1.0.1-4deepin) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Mon, 14 Sep 2026 09:22:54 +0800
-
 xserver-xorg-video-ati (1:19.1.0.1-3deepin) unstable; urgency=medium
 
   * for debian 19.1.0-3.
