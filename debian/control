@@ -7,13 +7,13 @@ Build-Depends:
  quilt,
  pkg-config,
  xserver-xorg-dev (>= 2:1.15.99),
- libgl1-mesa-dev | libgl-dev,
+ libgl-dev,
  libgbm-dev,
  libdrm-dev (>= 2.4.89) [!hurd-i386],
  libudev-dev [linux-any],
  x11proto-dev,
  xutils-dev (>= 1:7.5+4)
-Standards-Version: 4.2.1
+Standards-Version: 4.6.2
 Vcs-Git: https://salsa.debian.org/xorg-team/driver/xserver-xorg-video-ati.git
 Vcs-Browser: https://salsa.debian.org/xorg-team/driver/xserver-xorg-video-ati.git
 Homepage: https://wiki.freedesktop.org/xorg/RadeonFeature/
